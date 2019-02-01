@@ -1,0 +1,1 @@
+The architecture of Quorum is quite simple. It is composed of a Quorum Node and Constellation (which is composed of Transaction Manager and Enclave). See here for more information about the architecture.
